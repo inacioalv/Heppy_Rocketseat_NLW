@@ -31,8 +31,8 @@ Nos links abaixo você encontra o layout do projeto web.Precisa ter uma conta no
 
 - [Layout Web](https://www.figma.com/file/ge20pu3ofMOKoliUyKx1Nl/?viewer=1&node-id=)
 
-<img alt="home" src="home_happy" />
+<img alt="home" src="layout/home_happy" />
 
-<img alt="happy" src="public\escolha.png" />
+<img alt="happy" src="layout\escolha.png" />
 
 

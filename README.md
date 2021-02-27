@@ -27,12 +27,9 @@ O Heppy é uma aplicação que utilizar.
 
 ## 🔖 Layout
 
-Nos links abaixo você encontra o layout do projeto web.Precisa ter uma conta no [Figma](http://figma.com/) para acessá-lo.
+Nos link abaixo você encontra o layout do projeto web.Precisa ter uma conta no [Figma](http://figma.com/) para acessá-lo.
 
-- [Layout Web](https://www.figma.com/file/ge20pu3ofMOKoliUyKx1Nl/?viewer=1&node-id=)
+- [Layout Web](https://www.figma.com/file/mDEbnoojksG4w8sOxmudh3/Happy-Web)
 
-<img alt="home" src="layout/home_happy.png" />
-
-<img alt="happy" src="layout\escolha.png" />
 
 

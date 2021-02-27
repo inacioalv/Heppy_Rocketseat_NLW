@@ -31,6 +31,8 @@ Nos links abaixo você encontra o layout do projeto web.Precisa ter uma conta no
 
 - [Layout Web](https://www.figma.com/file/ge20pu3ofMOKoliUyKx1Nl/?viewer=1&node-id=)
 
-<img alt="Moveit" src="public\home.png" />
+<img alt="home" src="home_happy" />
+
+<img alt="happy" src="public\escolha.png" />
 
 

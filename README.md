@@ -33,4 +33,6 @@ Nos link abaixo você encontra o layout do projeto web.Precisa ter uma conta no 
 
 <img alt="Logo do projeto" src="./Layout/home_happy.png" />
 
+<img alt="Logo do projeto" src="./Layout/escolha.png" />
+
 

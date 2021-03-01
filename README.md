@@ -21,7 +21,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Heppy é uma aplicação que utilizar.
+O Heppy é uma aplicação que utilizar o mapa para localizar orfanato podendo criar marcações da localização desse orfanato.
 
 
 

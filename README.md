@@ -31,5 +31,6 @@ Nos link abaixo você encontra o layout do projeto web.Precisa ter uma conta no 
 
 - [Layout Web](https://www.figma.com/file/mDEbnoojksG4w8sOxmudh3/Happy-Web)
 
+<img alt="Logo do projeto" src="./Layout/home_happy.png" />
 
 

@@ -34,10 +34,12 @@ Nos link abaixo você encontra o layout do projeto web.Precisa ter uma conta no 
 <img alt="Logo do projeto" src="./Layout/home_happy.png" />
 
 
+
+<img alt="Logo do projeto" src="./Layout/escolha.png" />
+
+
 ## 📝 Licença
 
 Este projeto esta sobe a licença MIT. Veja a [LICENÇA](https://opensource.org/licenses/MIT) para saber mais.
-
-<img alt="Logo do projeto" src="./Layout/escolha.png" />
 
 
